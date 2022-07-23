@@ -1,2 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
-    
+body{
+    background-image: url('https://media2.giphy.com/media/136WHJXKELjk1q/giphy.gif?cid=ecf05e479x3i7xpy9ttrqp69w9lfofczhletq46wrdsf3sjy&rid=giphy.gif&ct=g');
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+
+       
+}
+
+
